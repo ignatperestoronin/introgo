@@ -1,4 +1,4 @@
-# 1
+# 1 Задание
 
 package main
 
@@ -8,7 +8,7 @@ func main() {
     fmt.Println("Hello, my name is Ignat")
 }
 
-# 2
+# 2 Задание
 
 package main
 
